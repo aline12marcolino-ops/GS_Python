@@ -1,0 +1,186 @@
+[
+    {
+        "id": 1,
+        "categoria": "Saúde",
+        "titulo": "Solicitar a emissão do Cartão Nacional de Saúde (Cartão SUS)",
+        "palavras_chave": [
+            "cartao sus",
+            "cartao nacional de saude",
+            "cns",
+            "novo cartao sus",
+            "cartao do sus",
+            "sus"
+        ],
+        "resposta": "A emissão de um novo Cartão Nacional de Saúde não é feita pelo Meu SUS Digital. Para solicitar um novo cartão ou alterar dados cadastrais, compareça presencialmente a um estabelecimento de saúde.",
+        "documentos": [
+            "Consulte a unidade de saúde sobre os documentos exigidos para o seu caso."
+        ],
+        "onde": "Em um estabelecimento de saúde do SUS.",
+        "fonte": "https://www.gov.br/saude/pt-br/composicao/seidigi/meususdigital/perguntas-e-respostas/cidadao",
+        "verificado_em": "2026-11-15"
+    },
+    {
+        "id": 2,
+        "categoria": "Saúde",
+        "titulo": "Tomar vacinas pelo Sistema Único de Saúde",
+        "palavras_chave": [
+            "vacina sus",
+            "imunizacao",
+            "tomar vacina",
+            "cartao de vacinacao",
+            "sala de vacinacao"
+        ],
+        "resposta": "A vacinação de rotina é gratuita nas salas de vacinação das Unidades Básicas de Saúde e em pontos definidos pelo município. Leve seu cartão de vacinação, se tiver. A falta da caderneta não impede a vacinação.",
+        "documentos": [
+            "Cartão ou caderneta de vacinação, se disponível."
+        ],
+        "onde": "Em uma sala de vacinação de uma UBS ou em ponto de vacinação definido pelo município.",
+        "fonte": "https://www.gov.br/saude/pt-br/composicao/svsa/pni/faq/faq/vacinas/o-que-e-preciso-ser",
+        "verificado_em": "2026-11-15"
+    },
+    {
+        "id": 3,
+        "categoria": "Saúde",
+        "titulo": "Acessar o aplicativo Meu SUS Digital",
+        "palavras_chave": [
+            "meu sus digital",
+            "aplicativo sus",
+            "historico de saude",
+            "carteira de vacinacao digital"
+        ],
+        "resposta": "O Meu SUS Digital reúne informações e documentos de saúde disponíveis nos sistemas integrados ao SUS. O acesso é feito com uma conta Gov.br. O serviço também possui versão web e aplicativo para dispositivos móveis.",
+        "documentos": [
+            "Conta Gov.br para entrar na plataforma."
+        ],
+        "onde": "Pelo aplicativo Meu SUS Digital ou pela versão web oficial.",
+        "fonte": "https://www.gov.br/saude/pt-br/composicao/seidigi/meususdigital/perguntas-e-respostas/cidadao/1-o-que-e-o",
+        "verificado_em": "2026-11-15"
+    },
+    {
+        "id": 4,
+        "categoria": "Saúde",
+        "titulo": "Localizar uma Unidade Básica de Saúde (UBS)",
+        "palavras_chave": [
+            "localizar ubs",
+            "posto de saude",
+            "unidade basica de saude",
+            "ubs mais proxima"
+        ],
+        "resposta": "O Meu SUS Digital permite consultar estabelecimentos de saúde de acordo com a localização informada pelo serviço e visualizar rotas de acesso. Também é possível buscar orientação junto à Secretaria Municipal de Saúde.",
+        "documentos": [],
+        "onde": "No Meu SUS Digital, na consulta de estabelecimentos de saúde, ou nos canais da Secretaria Municipal de Saúde.",
+        "fonte": "https://www.gov.br/saude/pt-br/composicao/seidigi/meususdigital/perguntas-e-respostas/cidadao/2-quais-os-servicos-que",
+        "verificado_em": "2026-11-15"
+    },
+    {
+        "id": 5,
+        "categoria": "Documentação e cidadania",
+        "titulo": "Emitir a primeira via da Carteira de Identidade Nacional (CIN)",
+        "palavras_chave": [
+            "carteira de identidade",
+            "nova identidade",
+            "cin",
+            "primeira via identidade"
+        ],
+        "resposta": "A primeira emissão em papel da Carteira de Identidade Nacional é gratuita. A emissão é realizada pelos órgãos de identificação civil dos estados e do Distrito Federal. Em geral, é necessário apresentar certidão de nascimento ou casamento atualizada. Consulte o órgão do seu estado para agendamento e orientações locais.",
+        "documentos": [
+            "Certidão de nascimento ou casamento atualizada."
+        ],
+        "onde": "No órgão de identificação civil do estado ou do Distrito Federal, conforme o procedimento local.",
+        "fonte": "https://www.gov.br/governodigital/pt-br/identidade/cin/perguntas-frequentes-sobre-a-cin",
+        "verificado_em": "2026-11-15"
+    },
+    {
+        "id": 6,
+        "categoria": "Documentação e cidadania",
+        "titulo": "Fazer a inscrição no Cadastro de Pessoas Físicas (CPF)",
+        "palavras_chave": [
+            "fazer cpf",
+            "tirar cpf",
+            "inscricao cpf",
+            "receita federal cpf"
+        ],
+        "resposta": "A inscrição no CPF pode ser solicitada pelo serviço oficial da Receita Federal. Consulte a página do serviço para verificar quem pode solicitar, os documentos e as etapas aplicáveis ao seu caso. A Receita informa que não é necessário contratar intermediários.",
+        "documentos": [
+            "Consulte a lista de documentos indicada pela Receita Federal para o seu caso."
+        ],
+        "onde": "Pelo serviço oficial de inscrição no CPF da Receita Federal.",
+        "fonte": "https://www.gov.br/pt-br/servicos/inscrever-no-cpf",
+        "verificado_em": "2026-11-15"
+    },
+    {
+        "id": 7,
+        "categoria": "Documentação e cidadania",
+        "titulo": "Solicitar o primeiro título de eleitor",
+        "palavras_chave": [
+            "primeiro titulo",
+            "tirar titulo de eleitor",
+            "alistamento eleitoral",
+            "titulo eleitoral"
+        ],
+        "resposta": "O primeiro título pode ser solicitado pelo Autoatendimento Eleitoral do TSE ou presencialmente em uma unidade da Justiça Eleitoral. Para atendimento presencial, o TSE orienta levar documento oficial de identificação com foto e comprovante de residência. Há exigência de comprovante de quitação militar para os casos previstos nas orientações eleitorais.",
+        "documentos": [
+            "Documento oficial de identificação com foto.",
+            "Comprovante de residência.",
+            "Comprovante de quitação militar, quando aplicável."
+        ],
+        "onde": "No Autoatendimento Eleitoral do TSE ou em cartório, central ou posto de atendimento eleitoral.",
+        "fonte": "https://www.tse.jus.br/servicos-eleitorais/servicos/ouvidoria-tse",
+        "verificado_em": "2026-11-15"
+    },
+    {
+        "id": 8,
+        "categoria": "Direitos do consumidor",
+        "titulo": "Registrar uma reclamação no Consumidor.gov.br",
+        "palavras_chave": [
+            "reclamar empresa",
+            "consumidor gov",
+            "problema com compra",
+            "reclamacao online"
+        ],
+        "resposta": "O Consumidor.gov.br permite a comunicação direta entre consumidores e empresas participantes. É necessário acessar com conta Gov.br, verificar se a empresa está cadastrada e descrever o problema. O Ministério da Justiça informa que a empresa tem até dez dias para responder à reclamação.",
+        "documentos": [
+            "Documentos relacionados ao caso, como nota fiscal, comprovante de pagamento, contrato ou protocolo, quando disponíveis."
+        ],
+        "onde": "Na plataforma oficial Consumidor.gov.br.",
+        "fonte": "https://www.gov.br/mj/pt-br/assuntos/noticias/consumidor-gov-br-saiba-como-registrar-uma-reclamacao-pela-plataforma",
+        "verificado_em": "2026-11-15"
+    },
+    {
+        "id": 9,
+        "categoria": "Direitos do consumidor",
+        "titulo": "Procurar atendimento do Procon em São Paulo",
+        "palavras_chave": [
+            "procon sp",
+            "reclamacao procon",
+            "problema consumidor",
+            "atendimento consumidor"
+        ],
+        "resposta": "Em São Paulo, o Procon-SP disponibiliza atendimento digital para reclamações de consumo. O procedimento exige acesso por conta Gov.br e o envio de documentos relacionados ao problema. Os canais, requisitos e prazos podem variar conforme o tipo de atendimento e devem ser conferidos na página oficial.",
+        "documentos": [
+            "Documentos relacionados ao problema, como pedido, nota fiscal, contrato ou comprovante de pagamento."
+        ],
+        "onde": "No sistema de atendimento digital do Procon-SP. Esta orientação é específica para o estado de São Paulo.",
+        "fonte": "https://www.procon.sp.gov.br/carta-de-servicos/",
+        "verificado_em": "2026-11-15"
+    },
+    {
+        "id": 10,
+        "categoria": "Direitos do consumidor",
+        "titulo": "Desistir de uma compra feita pela internet",
+        "palavras_chave": [
+            "cancelar compra online",
+            "direito de arrependimento",
+            "desistir compra internet",
+            "sete dias compra"
+        ],
+        "resposta": "Nas compras realizadas fora do estabelecimento comercial, como pela internet ou telefone, o consumidor pode exercer o direito de arrependimento em até sete dias, conforme o artigo 49 do Código de Defesa do Consumidor. Guarde comprovantes e registre o pedido de cancelamento junto ao fornecedor.",
+        "documentos": [
+            "Comprovante da compra ou pedido.",
+            "Registro da solicitação de cancelamento, se houver."
+        ],
+        "onde": "Entre em contato com o fornecedor pelos canais oficiais de atendimento. Se não houver solução, procure o Procon ou o Consumidor.gov.br, quando a empresa participar da plataforma.",
+        "fonte": "https://www.procon.sp.gov.br/reclamacoes-de-compras-online/",
+        "verificado_em": "2026-11-15"
+    }
+]
